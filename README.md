@@ -6,6 +6,7 @@
 > **SOMMAIRE**
 > + [EvoluNoob](#-evolunoob)
 > + [JasonChampagne](#-jasonchampagne)
+>   + [Idées de vidéos](#idées-de-vidéos) 
 > + [MisterPapoy](#-misterpapoy)
 >   + [Jeux à terminer](#jeux-à-terminer)
 >   + [Jeux à venir](#jeux-à-venir) 
@@ -22,11 +23,7 @@
 
 ## 🔴 JasonChampagne
 
-|-|CONTENU|DESCRIPTION|
-|--:|:--|:--|
-|EN COURS|||
-|PROCHAINEMENT|||
-|NOUVELLES IDÉES|||
+### Idées de vidéos
 
 ## 🟣 MisterPapoy
 
