@@ -6,7 +6,8 @@
 > **SOMMAIRE**
 > + [EvoluNoob](#-evolunoob)
 > + [JasonChampagne](#-jasonchampagne)
->   + [Idées de vidéos](#idées-de-vidéos) 
+>   + [Idées de contenus](#idées-de-contenus) 
+>   + [Idées de vidéos](#idées-de-vidéos-uniques) 
 > + [MisterPapoy](#-misterpapoy)
 >   + [Jeux à terminer](#jeux-à-terminer)
 >   + [Jeux à venir](#jeux-à-venir) 
@@ -23,7 +24,19 @@
 
 ## 🔴 JasonChampagne
 
-### Idées de vidéos
+### Idées de contenus
+
++ ASMR (avec ou sans vidéo), abordant des sujets personnels et/ou sur des thèmes suggérés par les abonnés
++ Réact' à des contenus d'actualité
++ J'apprends... (le dictionnaire, les pays du monde, une langue, un texte précis, ...)
+
+### Idées de vidéos uniques
+
++ Test de pureté
++ Test MTBI
++ Test de QI
++ Geoguessr / WoWGuessr
++ Dialed (devenir une fréquence, une couleur, ...)
 
 ## 🟣 MisterPapoy
 
