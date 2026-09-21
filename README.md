@@ -1,5 +1,8 @@
 # Feuille de route YouTube
 
+> [!Note]
+> _Retrouvez sur cette page les contenus sur lesquels je travaille actuellement, ainsi que des idées de projets et concepts à venir, en préparation._
+
 **SOMMAIRE**
 + [EvoluNoob](#-evolunoob)
 + [JasonChampagne](#-jasonchampagne)
@@ -8,7 +11,6 @@
 ---
 
 ## 🔵 EvoluNoob
-> [Voir la chaîne](https://www.youtube.com/@evolunoob)
 
 |-|CONTENU|DESCRIPTION|
 |--:|:--|:--|
@@ -17,7 +19,6 @@
 |NOUVELLES IDÉES|||
 
 ## 🔴 JasonChampagne
-> [Voir la chaîne](https://www.youtube.com/@jasonchampagne)
 
 |-|CONTENU|DESCRIPTION|
 |--:|:--|:--|
@@ -26,7 +27,6 @@
 |NOUVELLES IDÉES|||
 
 ## 🟣 MisterPapoy
-> [Voir la chaîne](https://www.youtube.com/@misterpapoy)
 
 ### Jeux à terminer
 
