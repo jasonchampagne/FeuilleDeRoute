@@ -28,10 +28,16 @@
 ## 🟣 MisterPapoy
 > [Voir la chaîne](https://www.youtube.com/@misterpapoy)
 
-|-|JEUX|
-|--:|:--|
-|EN COURS|[Deus Ex: Human Revolution](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbd8t4nZteGnKzte8rbZbKm6)<br>[Neverness to Everness](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbc0JctFdbATo3Bsiiuwnags)|
-|PROCHAINEMENT|Warcraft + Warcraft II + Warcraft III|
+### Jeux à terminer
+
++ [Deus Ex: Human Revolution](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbd8t4nZteGnKzte8rbZbKm6)
++ [Neverness to Everness](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbc0JctFdbATo3Bsiiuwnags)
+
+### Jeux à venir
+
++ Warcraft
++ Warcraft II
++ Warcraft III
 
 ---
 
