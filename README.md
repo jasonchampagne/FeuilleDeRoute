@@ -7,6 +7,8 @@
 > + [EvoluNoob](#-evolunoob)
 > + [JasonChampagne](#-jasonchampagne)
 > + [MisterPapoy](#-misterpapoy)
+>   + [Jeux à terminer](#jeux-à-terminer)
+>   + [Jeux à venir](#jeux-à-venir) 
 
 ---
 
