@@ -10,26 +10,28 @@
 ## 🔵 EvoluNoob
 > [Voir la chaîne](https://www.youtube.com/@evolunoob)
 
-|-|CONTENU|
-|--:|:--|
-|EN COURS||
-|À VENIR||
+|-|CONTENU|DESCRIPTION|
+|--:|:--|:--|
+|EN COURS|||
+|PROCHAINEMENT|||
+|NOUVELLES IDÉES|||
 
 ## 🔴 JasonChampagne
 > [Voir la chaîne](https://www.youtube.com/@jasonchampagne)
 
-|-|CONTENU|
-|--:|:--|
-|EN COURS||
-|À VENIR||
+|-|CONTENU|DESCRIPTION|
+|--:|:--|:--|
+|EN COURS|||
+|PROCHAINEMENT|||
+|NOUVELLES IDÉES|||
 
 ## 🟣 MisterPapoy
 > [Voir la chaîne](https://www.youtube.com/@misterpapoy)
 
-|-|CONTENU|
+|-|JEUX|
 |--:|:--|
-|EN COURS||
-|À VENIR||
+|EN COURS|Deus Ex: Human Revolution<br>Neverness to Everness|
+|PROCHAINEMENT|Warcraft + Warcraft II + Warcraft III|
 
 ---
 
