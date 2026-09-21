@@ -10,12 +10,8 @@
 ## 🔵 EvoluNoob
 > https://www.youtube.com/@evolunoob
 
----
-
 ## 🔴 JasonChampagne
 > https://www.youtube.com/@jasonchampagne
-
----
 
 ## 🟣 MisterPapoy
 > https://www.youtube.com/@misterpapoy
