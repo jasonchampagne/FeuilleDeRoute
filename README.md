@@ -3,10 +3,10 @@
 > [!Note]
 > _Retrouvez sur cette page les contenus sur lesquels je travaille actuellement, ainsi que des idées de projets et concepts à venir, en préparation._
 
-**SOMMAIRE**
-+ [EvoluNoob](#-evolunoob)
-+ [JasonChampagne](#-jasonchampagne)
-+ [MisterPapoy](#-misterpapoy)
+> **SOMMAIRE**
+> + [EvoluNoob](#-evolunoob)
+> + [JasonChampagne](#-jasonchampagne)
+> + [MisterPapoy](#-misterpapoy)
 
 ---
 
