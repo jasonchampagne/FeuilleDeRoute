@@ -8,13 +8,13 @@
 ---
 
 ## 🔵 EvoluNoob
-> https://www.youtube.com/@evolunoob
+> [Voir la chaîne](https://www.youtube.com/@evolunoob)
 
 ## 🔴 JasonChampagne
-> https://www.youtube.com/@jasonchampagne
+> [Voir la chaîne](https://www.youtube.com/@jasonchampagne)
 
 ## 🟣 MisterPapoy
-> https://www.youtube.com/@misterpapoy
+> [Voir la chaîne](https://www.youtube.com/@misterpapoy)
 
 ---
 
