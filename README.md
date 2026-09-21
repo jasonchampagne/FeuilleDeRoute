@@ -30,7 +30,7 @@
 
 |-|JEUX|
 |--:|:--|
-|EN COURS|Deus Ex: Human Revolution<br>Neverness to Everness|
+|EN COURS|[Deus Ex: Human Revolution](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbd8t4nZteGnKzte8rbZbKm6)<br>[Neverness to Everness](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbc0JctFdbATo3Bsiiuwnags)|
 |PROCHAINEMENT|Warcraft + Warcraft II + Warcraft III|
 
 ---
