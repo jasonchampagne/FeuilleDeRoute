@@ -81,7 +81,7 @@
 + Réact' à des contenus divers (IA, politique, personnalités publiques, jeu vidéo, ...)
 + Compositions, impros et reprises au piano
 
-Plus tard, quand ce sera possible, j'aimerais aussi faire du chant, proposer des recettes de cuisine/pâtisserie, faire de la broderie, du dessin, du mixage ou quelques démonstrations d'arts martiaux.
+Et quand cela sera possible, j'aimerais faire du chant, proposer des recettes de cuisine/pâtisserie, faire de la broderie, du dessin, du mixage ou quelques démonstrations d'arts martiaux.
 
 ### Idées de vidéos uniques
 
