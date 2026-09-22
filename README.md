@@ -1,7 +1,7 @@
 # Feuille de route YouTube
 
 > [!Note]
-> _Retrouvez sur cette page les contenus sur lesquels je travaille actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
+> _Retrouvez sur cette page les [contenus sur lesquels je travaille](https://onee.page/jachampagne) actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
 > ✅ **Dernière mise à jour : 22/09/2026**
 
