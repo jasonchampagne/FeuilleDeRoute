@@ -8,7 +8,6 @@
 >   + [Ça arrive !](#ça-arrive-)
 >   + [Playlists bientôt terminées](#playlists-bientôt-terminées)
 >   + [Playlists à continuer](#playlists-à-continuer)
->   + [Playlists commencées](#playlists-commencées)
 > + [**JasonChampagne**](#-jasonchampagne)
 >   + [Idées de contenus](#idées-de-contenus)
 >   + [Idées de vidéos uniques](#idées-de-vidéos-uniques)
@@ -21,9 +20,18 @@
 ## 🔵 EvoluNoob
 
 ### Ça arrive !
+
 ### Playlists bientôt terminées
+
++ [Programmation (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGQA2j_506U-j0aai0tQsLn)
+
 ### Playlists à continuer
-### Playlists commencées
+
++ [Dart (cours)](https://www.youtube.com/playlist?list=PLIhHaal_vKBc)
++ [Django (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGEAtBUsBLqgnyakhRMx6vv)
++ [JavaFX (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGs40s2u_cspUO4UPeVTrO4)
++ [Python (exercices)](https://www.youtube.com/playlist?list=PLMpfHdJC_lAA)
++ [React (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEvTrT_jtFiVC3WwziA3g2t)
 
 ## 🔴 JasonChampagne
 
