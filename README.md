@@ -6,14 +6,15 @@
 > **CHAÎNES**
 > + [**EvoluNoob**](#-evolunoob)
 >   + [Nouveautés](#nouveautés)
->   + [Playlists bientôt terminées](#playlists-bientôt-terminées) 
->   + [Playlists à continuer](#playlists-à-continuer) 
+>   + [Playlists bientôt terminées](#playlists-bientôt-terminées)
+>   + [Playlists à continuer](#playlists-à-continuer)
+>   + [Playlists commencées](#playlists-commencées)
 > + [**JasonChampagne**](#-jasonchampagne)
->   + [Idées de contenus](#idées-de-contenus) 
->   + [Idées de vidéos uniques](#idées-de-vidéos-uniques) 
+>   + [Idées de contenus](#idées-de-contenus)
+>   + [Idées de vidéos uniques](#idées-de-vidéos-uniques)
 > + [**MisterPapoy**](#-misterpapoy)
 >   + [Jeux à terminer](#jeux-à-terminer)
->   + [Jeux à venir](#jeux-à-venir) 
+>   + [Jeux à venir](#jeux-à-venir)
 
 ---
 
@@ -22,6 +23,7 @@
 ### Nouveautés
 ### Playlists bientôt terminées
 ### Playlists à continuer
+### Playlists commencées
 
 ## 🔴 JasonChampagne
 
