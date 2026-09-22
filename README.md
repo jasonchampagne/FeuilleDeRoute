@@ -27,8 +27,15 @@
 ### Idées de contenus
 
 + ASMR (avec ou sans vidéo), abordant des sujets personnels et/ou sur des thèmes suggérés par les abonnés
-+ Réact' à des contenus d'actualité
++ Réact' à des contenus divers (IA, politique, personnalités publiques, jeu vidéo, ...)
 + J'apprends... (le dictionnaire, les pays du monde, une langue, un texte précis, ...)
++ Lecture de textes et/ou poèmes (libres de droits)
++ Compositions, impros et reprises au piano
++ Plus tard, quand ce sera possible :
+  + compositions et reprises au chant
+  + recettes de cuisine/pâtisserie
+  + broderie, dessin/peinture, mixage, ...
+  + arts martiaux
 
 ### Idées de vidéos uniques
 
