@@ -7,7 +7,7 @@
 > + [EvoluNoob](#-evolunoob)
 > + [JasonChampagne](#-jasonchampagne)
 >   + [Idées de contenus](#idées-de-contenus) 
->   + [Idées de vidéos](#idées-de-vidéos-uniques) 
+>   + [Idées de vidéos uniques](#idées-de-vidéos-uniques) 
 > + [MisterPapoy](#-misterpapoy)
 >   + [Jeux à terminer](#jeux-à-terminer)
 >   + [Jeux à venir](#jeux-à-venir) 
