@@ -21,7 +21,7 @@
 
 ### Ça arrive !
 
-+ **`Immersion`** (LA PLAYLIST LA PLUS IMPORTANTE DE TOUTE LA CHAÎNE)
++ Playlist **`Immersion`** (LA PLAYLIST LA PLUS IMPORTANTE DE TOUTE LA CHAÎNE)
 + Nouveau concept **`Tunnel Vision`** (podcast : des abonnés choisissent un sujet précis et je fais une publication unique avec un monologue pour l'expliquer)
 + Nouvelles séries de vidéos :
   + Une playlist de sécurité, mais 100 % pour les débutants (protéger ses données, bien utiliser internet, réduire les risques de piratage, etc.)
