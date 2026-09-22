@@ -21,6 +21,15 @@
 
 ### Ça arrive !
 
++ **`Immersion`** (LA PLAYLIST LA PLUS IMPORTANTE DE TOUTE LA CHAÎNE)
++ Nouveau concept **`Tunnel Vision`** (podcast : des abonnés choisissent un sujet précis et je fais une publication unique avec un monologue pour l'expliquer)
++ Nouvelles séries de vidéos :
+  + Une playlist de sécurité, mais 100 % pour les débutants (protéger ses données, bien utiliser internet, réduire les risques de piratage, etc.)
+  + Une playlist pour la protection des enfants sur internet, à destination des parents
++ Contenus "putaclic", avec titres et miniatures accrocheurs, optimisés pour le référencement, ayant pour but de booster la chaîne et améliorer la monétisation (contexte : [ici](https://www.youtube.com/watch?v=a4IqBBfxsDw) et [là](https://www.youtube.com/watch?v=__y5mGcqww0))
++ Exercices (C, puis Java, C++, C#, HTML, JavaScript, ...)
++ Un 1er projet, payant (que vous découvrirez lors de la vidéo d'introduction)
+
 ### Playlists bientôt terminées
 
 + [Docker (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH9Ty2WuViWfWggFXV1wbY9)
