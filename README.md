@@ -77,7 +77,7 @@ Retrouvez aussi tous les contenus que j'aimerais faire sur la chaîne dans le [d
 
 ### Idées de contenus
 
-> _Certains de ces contenus seront aussi faits en **ASMR**._
+> _Certains de ces contenus vont aussi être faits en **ASMR**._
 
 + J'apprends... (le dictionnaire, les pays du monde, un texte, une langue, ...)
 + Doublage de jeux, films et séries
