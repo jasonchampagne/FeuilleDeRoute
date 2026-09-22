@@ -27,11 +27,21 @@
 
 ### Playlists à continuer
 
++ [Architecture (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrnz5zRvjPBqlSpac3hWqZ)
++ [Assembleur x86_64 (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)
++ [C# (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)
 + [Dart (cours)](https://www.youtube.com/playlist?list=PLIhHaal_vKBc)
 + [Django (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGEAtBUsBLqgnyakhRMx6vv)
++ [Git (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF2MIop-O1bSD8Z8Jr8yTSE)
++ [Graphisme (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEUH-54SqpLyyDjD9u6MOT4)
 + [JavaFX (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGs40s2u_cspUO4UPeVTrO4)
++ [PHP (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH5TGlIumlFePD4ZhzlCwgU)
 + [Python (exercices)](https://www.youtube.com/playlist?list=PLMpfHdJC_lAA)
 + [React (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEvTrT_jtFiVC3WwziA3g2t)
++ [SQL (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfENtxyQRHAu86-wgcAMimvD)
++ [Windows (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHG2Ir_Z2AcxhWC3uwrEz-_)
+
+---
 
 ## 🔴 JasonChampagne
 
@@ -57,6 +67,8 @@ Plus tard, quand ce sera possible, j'aimerais aussi faire du chant, proposer des
 + Geoguessr / WoWGuessr
 + Dialed (devenir une fréquence, une couleur)
 + Propositions des abonnés...
+
+---
 
 ## 🟣 MisterPapoy
 
