@@ -4,14 +4,14 @@
 > _Retrouvez sur cette page les contenus sur lesquels je travaille actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
 > **SOMMAIRE**
-> + [EvoluNoob](#-evolunoob)
+> + [**EvoluNoob**](#-evolunoob)
 >   + [Nouveautés](#nouveautés)
 >   + [Playlists bientôt terminées](#playlists-bientôt-terminées) 
 >   + [Playlists à continuer](#playlists-à-continuer) 
-> + [JasonChampagne](#-jasonchampagne)
+> + [**JasonChampagne**](#-jasonchampagne)
 >   + [Idées de contenus](#idées-de-contenus) 
 >   + [Idées de vidéos uniques](#idées-de-vidéos-uniques) 
-> + [MisterPapoy](#-misterpapoy)
+> + [**MisterPapoy**](#-misterpapoy)
 >   + [Jeux à terminer](#jeux-à-terminer)
 >   + [Jeux à venir](#jeux-à-venir) 
 
