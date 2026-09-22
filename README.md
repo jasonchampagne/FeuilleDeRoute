@@ -1,10 +1,9 @@
 # Feuille de route YouTube
 
-> ✅ **Mise à jour le 22/09/2026**
-
 > [!Note]
 > _Retrouvez sur cette page les contenus sur lesquels je travaille actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
+> ✅ **Mise à jour le 22/09/2026**
 > **CHAÎNES**
 > + [**EvoluNoob**](#-evolunoob)
 >   + [Ça arrive !](#ça-arrive-)
