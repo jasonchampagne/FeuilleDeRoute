@@ -1,5 +1,7 @@
 # Feuille de route YouTube
 
+> ✅ **Mise à jour le 22/09/2026**
+
 > [!Note]
 > _Retrouvez sur cette page les contenus sur lesquels je travaille actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
@@ -20,6 +22,8 @@
 ## 🔵 EvoluNoob
 
 ### Ça arrive !
+
+> _Dans les prochains jours/semaines/mois..._
 
 + Playlist **`Immersion`** (LA PLAYLIST LA PLUS IMPORTANTE DE TOUTE LA CHAÎNE).
 + Nouveau concept **`Tunnel Vision`** (podcast : des abonnés choisissent un sujet précis et je fais une publication unique avec un monologue pour l'expliquer).
