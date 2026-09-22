@@ -5,6 +5,9 @@
 
 > **SOMMAIRE**
 > + [EvoluNoob](#-evolunoob)
+>   + [Nouveautés](#nouveautés)
+>   + [Playlists bientôt terminées](#playlists-bientôt-terminées) 
+>   + [Playlists à continuer](#playlists-à-continuer) 
 > + [JasonChampagne](#-jasonchampagne)
 >   + [Idées de contenus](#idées-de-contenus) 
 >   + [Idées de vidéos uniques](#idées-de-vidéos-uniques) 
@@ -16,11 +19,9 @@
 
 ## 🔵 EvoluNoob
 
-|-|CONTENU|DESCRIPTION|
-|--:|:--|:--|
-|EN COURS|||
-|PROCHAINEMENT|||
-|NOUVELLES IDÉES|||
+### Nouveautés
+### Playlists bientôt terminées
+### Playlists à continuer
 
 ## 🔴 JasonChampagne
 
@@ -44,7 +45,8 @@ Plus tard, quand ce sera possible, j'aimerais aussi faire du chant, proposer des
 + Test MTBI
 + Test de QI
 + Geoguessr / WoWGuessr
-+ Dialed (devenir une fréquence, une couleur, ...)
++ Dialed (devenir une fréquence, une couleur)
++ Propositions des abonnés...
 
 ## 🟣 MisterPapoy
 
@@ -54,6 +56,8 @@ Plus tard, quand ce sera possible, j'aimerais aussi faire du chant, proposer des
 + [Neverness to Everness](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbc0JctFdbATo3Bsiiuwnags)
 
 ### Jeux à venir
+
+> _J'ai prévu de faire beaucoup de jeux différents sur la chaîne, n'hésitez à proposer les vôtres !_
 
 + Warcraft
 + Warcraft II
