@@ -69,6 +69,8 @@
 + [SQLPage](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)
 + [Windows](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHG2Ir_Z2AcxhWC3uwrEz-_)
 
+Retrouvez aussi tous les contenus que j'aimerais faire sur la chaîne dans le [dépôt GitHub dédié](https://github.com/jasonchampagne/EvoluNoob).
+
 ---
 
 ## 🔴 JasonChampagne
