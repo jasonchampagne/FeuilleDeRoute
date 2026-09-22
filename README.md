@@ -5,7 +5,7 @@
 
 > **CHAÎNES**
 > + [**EvoluNoob**](#-evolunoob)
->   + [Nouveautés](#nouveautés)
+>   + [Ça arrive !](#)
 >   + [Playlists bientôt terminées](#playlists-bientôt-terminées)
 >   + [Playlists à continuer](#playlists-à-continuer)
 >   + [Playlists commencées](#playlists-commencées)
@@ -20,7 +20,7 @@
 
 ## 🔵 EvoluNoob
 
-### Nouveautés
+### Ça arrive !
 ### Playlists bientôt terminées
 ### Playlists à continuer
 ### Playlists commencées
