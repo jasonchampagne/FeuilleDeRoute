@@ -95,7 +95,7 @@ Et quand cela sera possible, j'aimerais faire du chant, proposer des recettes de
 + Test MTBI
 + Test de QI
 + Geoguessr / WoWGuessr
-+ Dialed (devenir une fréquence, une couleur)
++ Dialed (deviner une fréquence, une couleur)
 + Propositions des abonnés...
 
 ---
