@@ -114,8 +114,6 @@ Et quand cela sera possible, j'aimerais faire du chant, proposer des recettes de
 
 ### Jeux à venir
 
-> _Les jeux à venir bientôt, sans mentionner les centaines d'autres titres que j'ai envie de faire (n'hésitez à proposer les vôtres !)_
-
 + Warcraft II
 + Warcraft III
 
