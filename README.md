@@ -104,7 +104,7 @@ Et quand cela sera possible, j'aimerais faire du chant, proposer des recettes de
 ### Jeux à terminer
 
 + [Deus Ex: Human Revolution](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbd8t4nZteGnKzte8rbZbKm6)
-+ [Neverness to Everness](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbc0JctFdbATo3Bsiiuwnags)
++ [Warcraft I](https://www.youtube.com/playlist?list=PLGlIknSBGLGc)
 
 ### Jeux à venir
 
