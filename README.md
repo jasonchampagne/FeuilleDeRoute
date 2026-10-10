@@ -106,6 +106,12 @@ Et quand cela sera possible, j'aimerais faire du chant, proposer des recettes de
 + [Deus Ex: Human Revolution](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbd8t4nZteGnKzte8rbZbKm6)
 + [Warcraft I](https://www.youtube.com/playlist?list=PLGlIknSBGLGc)
 
+### Jeux à continuer
+
+> _Ces jeux n'ont pas de véritable fin et sont mis à jour constamment_.
+
++ [Neverness to Everness](https://www.youtube.com/playlist?list=PLZ6Ijdux2mbc0JctFdbATo3Bsiiuwnags)
+
 ### Jeux à venir
 
 > _Les jeux à venir bientôt, sans mentionner les centaines d'autres titres que j'ai envie de faire (n'hésitez à proposer les vôtres !)_
