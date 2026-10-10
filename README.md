@@ -3,7 +3,7 @@
 > [!Note]
 > _Retrouvez sur cette page les [contenus sur lesquels je travaille](https://onee.page/jachampagne) actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
-> ✅ **Dernière mise à jour : 28/09/2026**
+> ✅ **Dernière mise à jour : 10/10/2026**
 
 > **CHAÎNES**
 > + [**EvoluNoob**](#-evolunoob)
@@ -36,7 +36,6 @@
 
 ### Playlists bientôt terminées
 
-+ [Docker](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH9Ty2WuViWfWggFXV1wbY9)
 + [GCC](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)
 + [Programmation](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGQA2j_506U-j0aai0tQsLn)
 + [Visual Studio Code](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFzgjFG8ac8LEHKPbE8loan)
