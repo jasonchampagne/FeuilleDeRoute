@@ -3,7 +3,7 @@
 > [!Note]
 > _Retrouvez sur cette page les [contenus sur lesquels je travaille](https://onee.page/jachampagne) actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
-> ✅ **Dernière mise à jour : 20/10/2026**
+> ✅ **Dernière mise à jour : 25/10/2026**
 
 > **CHAÎNES**
 > + [**EvoluNoob**](#-evolunoob)
@@ -93,6 +93,8 @@ Et quand cela sera possible, j'aimerais faire du chant, proposer des recettes de
 + Test de pureté
 + Test MTBI
 + Test de QI
++ RedOrGreen
++ MonVote2027
 + Geoguessr / WoWGuessr
 + Dialed (deviner une fréquence, une couleur)
 + Propositions des abonnés...
