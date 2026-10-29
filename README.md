@@ -3,7 +3,7 @@
 > [!Note]
 > _Retrouvez sur cette page les [contenus sur lesquels je travaille](https://onee.page/jachampagne) actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
-> ✅ **Dernière mise à jour : 25/10/2026**
+> ✅ **Dernière mise à jour : 29/10/2026**
 
 > **CHAÎNES**
 > + [**EvoluNoob**](#-evolunoob)
@@ -78,7 +78,7 @@ Retrouvez aussi tous les contenus que j'aimerais faire sur la chaîne dans le [d
 
 > _Certains de ces contenus vont aussi être faits en **ASMR**._
 
-+ J'apprends... (le dictionnaire, les pays du monde, un texte, une langue, ...)
++ J'apprends... (le dictionnaire, le Morse, les pays du monde, un texte, une langue, ...)
 + Doublage de jeux, films et séries
 + Calligraphie et/ou écriture (de chansons, poèmes, roman, ...)
 + Lecture de textes et/ou de poèmes (libres de droits)
