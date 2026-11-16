@@ -71,7 +71,7 @@ Retrouvez aussi tous les contenus que j'aimerais faire sur la chaîne dans le [d
 
 ---
 
-## 🔴 JasonChampagne
+## 🟣 JasonChampagne
 
 ### Idées de contenus
 
@@ -100,7 +100,7 @@ Et quand cela sera possible, j'aimerais faire du chant, proposer des recettes de
 
 ---
 
-## 🟣 MisterPapoy
+## 🟤 MisterPapoy
 
 ### Jeux à terminer
 
