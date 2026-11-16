@@ -3,7 +3,7 @@
 > [!Note]
 > _Retrouvez sur cette page les [contenus sur lesquels je travaille](https://onee.page/jachampagne) actuellement, ainsi que des idées de projets et concepts à venir, en préparation. Soutenez mon travail en vous abonnant et en montrant votre engagement sur les vidéos mises en ligne !_
 
-> ✅ **Dernière mise à jour : 29/10/2026**
+> ✅ **Dernière mise à jour : 16/11/2026**
 
 > **CHAÎNES**
 > + [**EvoluNoob**](#-evolunoob)
@@ -32,7 +32,6 @@
   + Une playlist pour la protection des enfants, à destination des parents
 + Contenus "putaclic", avec titres et miniatures accrocheurs, optimisés pour le référencement, ayant pour but de booster la chaîne et améliorer la monétisation (j'en ai parlé [ici](https://www.youtube.com/watch?v=a4IqBBfxsDw) et [là](https://www.youtube.com/watch?v=__y5mGcqww0)), en format long et en Shorts.
 + Exercices (C, puis en suivant les cours qui ont le plus d'épisodes).
-+ Un 1er projet, payant (à découvrir lors de la vidéo de présentation).
 
 ### Playlists bientôt terminées
 
